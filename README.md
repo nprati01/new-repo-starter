@@ -5,7 +5,7 @@
 1. Click the `fork` button in the top-right corner of this webpage. 
 1. The browswer will navigate to a new page for creating a fork, make sure that your user name is displayed and select `Create Fork` button. 
 1. Verify that the browser has navigated to a page that includes this url: `https://github.com/<your-gh-username>/new-repo-starter`.
-1. Select the `clone` button shown in the `code` tab of your personal repoistory. 
+1. Click the green `Code` butto and the `clone` button shown in the pop-up menu of your personal `new-repo-starter` repository. 
 
 ### Follow the rest of the instructions shown below:
 
