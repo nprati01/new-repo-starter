@@ -33,7 +33,7 @@
     Then check the status again. You'll see that there are now changes to be committed. Let's do so:
     
     ```bash
-    git commit -m "Solve addOne"
+    git commit -m "completed TMAYS"
     ```
     
     Check the status one last time. You'll see now that there are no changes to commit. We're ready to push the committed changes up to GitHub.
